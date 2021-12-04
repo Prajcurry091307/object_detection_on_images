@@ -29,7 +29,7 @@ function draw()
         r = random(255);
         g = random(255);
         b = random(255);
-        objectDetector.detect(video , gotResults);
+        objectDetector.detect(img , gotResults);
       for (i=0; i <objects.length; i++)
       {
           document.getElementById("status").innerHTML = "Status : Object Detected";
