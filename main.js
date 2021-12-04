@@ -1,5 +1,5 @@
 desk()
 {
-    window.open(desk.html)
+    window.open("desk.html")
 }
 
