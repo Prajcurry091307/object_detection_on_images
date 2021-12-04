@@ -1,0 +1,18 @@
+body
+{
+    background-color: red;
+}
+.heading{
+    background-color: blue;
+    color: white;
+    width: 300px;
+    height: 65px;
+
+}
+.button{
+    color:white;
+    background-color: black;
+    width: 200px;
+    height: 55px;
+    font-size: 30px;
+}
